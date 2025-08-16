@@ -9,6 +9,7 @@ LeetCode
 | [0014-longest-common-prefix](https://github.com/Ninflex/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ninflex/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ninflex/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Ninflex/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -54,6 +55,7 @@ LeetCode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ninflex/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ninflex/LeetCode/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |

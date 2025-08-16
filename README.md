@@ -20,6 +20,7 @@ LeetCode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninflex/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ninflex/LeetCode/tree/master/0058-length-of-last-word) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ninflex/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
 | ------- |

@@ -50,6 +50,7 @@ LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/Ninflex/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ninflex/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -75,4 +77,8 @@ LeetCode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

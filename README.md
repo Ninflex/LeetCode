@@ -53,6 +53,7 @@ LeetCode
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ LeetCode
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,12 @@ LeetCode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ninflex/LeetCode/tree/master/0175-combine-two-tables) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

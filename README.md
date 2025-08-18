@@ -22,6 +22,7 @@ LeetCode
 | [0027-remove-element](https://github.com/Ninflex/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninflex/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ninflex/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ LeetCode
 | [0058-length-of-last-word](https://github.com/Ninflex/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ninflex/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ninflex/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
@@ -59,6 +61,7 @@ LeetCode
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 ## Math
 |  |

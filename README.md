@@ -13,6 +13,7 @@ LeetCode
 | [0035-search-insert-position](https://github.com/Ninflex/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ninflex/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ LeetCode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |

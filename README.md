@@ -15,6 +15,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ LeetCode
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |

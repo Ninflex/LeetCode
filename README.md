@@ -73,6 +73,7 @@ LeetCode
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
@@ -108,6 +109,7 @@ LeetCode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
@@ -120,4 +122,8 @@ LeetCode
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

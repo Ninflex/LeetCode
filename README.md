@@ -15,6 +15,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ LeetCode
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |

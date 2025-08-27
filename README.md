@@ -16,6 +16,7 @@ LeetCode
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ninflex/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
@@ -47,6 +48,7 @@ LeetCode
 | [0001-two-sum](https://github.com/Ninflex/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ninflex/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +83,7 @@ LeetCode
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/Ninflex/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation

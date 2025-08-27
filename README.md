@@ -81,6 +81,7 @@ LeetCode
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2556-convert-the-temperature](https://github.com/Ninflex/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |

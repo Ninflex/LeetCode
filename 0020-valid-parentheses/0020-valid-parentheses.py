@@ -1,6 +1,5 @@
 class Solution(object):
     def isValid(self, s):
-        i =0
         a=[]
         for i in range(len(s)):
             if s[i]=='('or s[i]=='['or s[i]=='{':

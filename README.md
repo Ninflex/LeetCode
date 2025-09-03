@@ -92,6 +92,7 @@ LeetCode
 | ------- |
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@ LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/Ninflex/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -147,6 +149,7 @@ LeetCode
 | [0101-symmetric-tree](https://github.com/Ninflex/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ninflex/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ninflex/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ninflex/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -171,5 +174,6 @@ LeetCode
 | [0101-symmetric-tree](https://github.com/Ninflex/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ninflex/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ninflex/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ninflex/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

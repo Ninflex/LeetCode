@@ -87,6 +87,7 @@ LeetCode
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/Ninflex/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3830-find-closest-person](https://github.com/Ninflex/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |

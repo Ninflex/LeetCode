@@ -39,6 +39,7 @@ LeetCode
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ninflex/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Ninflex/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ninflex/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
@@ -50,6 +51,7 @@ LeetCode
 | [0001-two-sum](https://github.com/Ninflex/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ninflex/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Ninflex/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |

@@ -16,6 +16,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ninflex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ninflex/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -30,6 +31,7 @@ LeetCode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ninflex/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ninflex/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ninflex/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -88,6 +90,7 @@ LeetCode
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |

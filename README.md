@@ -17,6 +17,7 @@ LeetCode
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ninflex/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -67,6 +68,7 @@ LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
+| [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ LeetCode
 | [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ninflex/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ninflex/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
@@ -129,6 +132,7 @@ LeetCode
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Ninflex/LeetCode/tree/master/1448-maximum-69-number) |
 ## Simulation
 |  |

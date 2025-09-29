@@ -18,6 +18,7 @@ LeetCode
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ninflex/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ninflex/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -59,6 +60,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/Ninflex/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ninflex/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ninflex/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ninflex/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -71,6 +73,7 @@ LeetCode
 | ------- |
 | [0169-majority-element](https://github.com/Ninflex/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ninflex/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
 |  |
@@ -97,6 +100,7 @@ LeetCode
 | [0070-climbing-stairs](https://github.com/Ninflex/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ninflex/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/Ninflex/LeetCode/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Ninflex/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -113,6 +117,7 @@ LeetCode
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ninflex/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ninflex/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -128,6 +133,7 @@ LeetCode
 | [0035-search-insert-position](https://github.com/Ninflex/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ninflex/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Ninflex/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Ninflex/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |

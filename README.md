@@ -26,6 +26,7 @@ LeetCode
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ninflex/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ninflex/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ninflex/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
 | ------- |

@@ -23,6 +23,7 @@ LeetCode
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ninflex/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ninflex/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Ninflex/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ninflex/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ninflex/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ninflex/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ninflex/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -49,6 +50,7 @@ LeetCode
 | [0125-valid-palindrome](https://github.com/Ninflex/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Ninflex/LeetCode/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ninflex/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ninflex/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ninflex/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
@@ -149,6 +151,7 @@ LeetCode
 | ------- |
 | [0067-add-binary](https://github.com/Ninflex/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ninflex/LeetCode/tree/master/0258-add-digits) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ninflex/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Database
 |  |
 | ------- |
